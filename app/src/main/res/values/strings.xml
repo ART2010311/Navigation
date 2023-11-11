@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <string name="myprofile">myprofile</string>
+    <string name="settings">settings</string>
+    <string name="aboutus">aboutus</string>
+    <string name="headerlayout">HeaderLayout</string>
+</resources>
